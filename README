@@ -1,0 +1,14 @@
+This **Credit Card UI Design** features a modern and sleek layout with a realistic card appearance. 
+
+- The **background** uses a custom image to mimic a textured card material.
+- The **header** includes a logo (MasterCard) and a chip icon, enhancing authenticity.
+- The **card details** section displays:
+  - **Card Number**: Clearly formatted for readability.
+  - **Cardholder Name**: Styled for a clean, professional look.
+  - **Validity Date**: Positioned with importance.
+- The **design** employs:
+  - Responsive layout for different screen sizes.
+  - A clean font stack with "Poppins" for elegance.
+  - Shadows and rounded corners for a modern feel.
+
+This design is ideal for use in payment interfaces, banking applications, or portfolio showcases.
